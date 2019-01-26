@@ -1,3 +1,5 @@
+#Greig Mitchell Modified BASH RC - originally taken from lawrencetech youtube channel#Greig Mitchell Modified BASH RC - originally taken from lawrencetech youtube channel#Greig Mitchell Modified BASH RC - originally taken from lawrencetech youtube channel
+
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
